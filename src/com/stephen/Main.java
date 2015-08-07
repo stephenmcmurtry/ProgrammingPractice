@@ -8,7 +8,11 @@ public class Main {
     public static void main(String[] args) throws IOException {
         Svpino svpino = new Svpino();
 
-        svpino.sumArrays();
+        // svpino.sumArrays();
+
+        // svpino.mergeArrays();
+
+        // svpino.firstHundredFibonacci();
 
         try {
             System.in.read();
